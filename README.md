@@ -7,6 +7,6 @@
 </div>
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Allefe-Almeida=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allefe-Almeida=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Allefe Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=Allefe-Almeida&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
