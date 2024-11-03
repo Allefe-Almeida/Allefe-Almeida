@@ -7,8 +7,7 @@
 </div>
 
 ##
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Allefe-Almeida&layout=compact&langs_count=7&theme=tokyonight"/>
-[![Allefe Almeida GitHub top](https://github-readme-stats.vercel.app/api?username=Allefe-Almeida&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Allefe Almeida GitHub top]("https://github-readme-stats.vercel.app/api/top-langs/?Allefe-Almeida&layout=compact&langs_count=7&theme=tokyonight")](https://github.com/anuraghazra/github-readme-stats)
 [![Allefe Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=Allefe-Almeida&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
