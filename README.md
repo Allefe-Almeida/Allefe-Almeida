@@ -4,7 +4,6 @@
   <img aling="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img aling="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img aling="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img aling="center" alt="RJS" height="30" width="40" src=" https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/react.png">
 </div>
 
 ##
