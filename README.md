@@ -1,4 +1,4 @@
-<h2>Olá! Eu sou Allefe Almeida, Estudante de GTI e desenvolvedor de software!</h2>
+<h2>Olá! Eu sou Allefe Almeida, Desenvolvedor de software formado em Gestão da TI!</h2>
 
 <div style="display: inline_block"><br>
   <img aling="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
